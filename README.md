@@ -1,50 +1,185 @@
-# Welcome to your Expo app 👋
+# 🥷 Nutri Ninja
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center">
+  <b>Eat Smart. Scan Fast. Decide Better.</b>
+</p>
 
-## Get started
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-0.7x-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?logo=node.js" />
+  <img src="https://img.shields.io/badge/Firebase-Database-orange?logo=firebase" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+</p>
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+##  About The Project
 
-2. Start the app
+Nutri Ninja is a smart nutrition assistant that helps users make better food choices instantly.
 
-   ```bash
-   npx expo start
-   ```
+Most people struggle to understand food labels, ingredients, sugar levels, and hidden unhealthy components.
 
-In the output, you'll find options to open the app in a
+Nutri Ninja solves this problem in seconds.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Just scan the barcode of any packaged food and get a clear nutrition dashboard to make smarter decisions.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+##  Demo
 
-When you're ready, run:
+🔗 Live Demo: *(https://www.linkedin.com/posts/jitendradewangan_ai-healthtech-startupjourney-activity-7434648226622013440--yk8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFmaX9wBTd0yGSkiUzk_lEUlFo2dzgAFxcE)*  
+📱 APK Download: *Coming Soon*  
+🎬 App Walkthrough Video: *Coming Soon*  
 
-```bash
-npm run reset-project
+---
+
+## 📸 Screenshots
+
+> Create a folder named `screenshots` inside your repository and add your app images there.
+
+### Home Screen
+```
+/screenshots/home.png
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Barcode Scanner
+```
+/screenshots/barcodd_scan.png
+```
 
-## Learn more
+### Nutrition Dashboard
+```
+/screenshots/dashboard.png
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+### Health Analysis View
+```
+/screenshots/analysis.png
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### Nutri Score Analysis View
+```
+/screenshots/analysis_2.png
+```
 
-## Join the community
+### Nutri Info Analysis View
+```
+/screenshots/nutri_info.png
+```
 
-Join our community of developers creating universal apps.
+### Ingedients Analysis View
+```
+/screenshots/ingredients.png
+```
+### Smart Warning View
+```
+/screenshots/smart_warning.png
+```
+### Example
+```
+/screenshots/example.png
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Then display them like this:
+
+<p align="center">
+  <img src="screenshots/home.png" width="250"/>
+  <img src="screenshots/scanner.png" width="250"/>
+  <img src="screenshots/dashboard.png" width="250"/>
+</p>
+
+---
+
+## 🚀 Features
+
+- 📷 Instant Barcode Scanning  
+- 📊 Clean Nutrition Dashboard  
+- 🧠 Smart Health Indicators  
+- ⚡ Fast & Minimal UI  
+- 🥗 Simple Food Decision Support  
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React Native
+- Expo (if used)
+
+**Backend**
+- Node.js / Express *(Update if different)*
+
+**Database**
+- Firebase / MongoDB *(Update if different)*
+
+**APIs**
+- Nutrition API
+- Barcode API
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/nutri-ninja.git
+cd nutri-ninja
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm start
+```
+
+---
+
+## 🧠 Future Roadmap
+
+- AI-based food recommendations  
+- Personalized nutrition tracking  
+- Healthy alternative suggestions  
+- Weekly health reports  
+- Smart alerts for unhealthy patterns  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository  
+2. Create a new branch  
+3. Commit your changes  
+4. Push and create a Pull Request  
+
+---
+
+## 👨‍💻 Author
+
+**Jitendra Dewangan**  
+AI Engineer in Progress  
+Building practical AI-powered products that solve real-world problems.
+
+🔗 LinkedIn: *https://www.linkedin.com/in/jitendradewangan/*  
+  
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project:
+
+- Star the repo  
+- Share feedback  
+- Connect with me  
+
+Let’s make healthy decisions easier for everyone.

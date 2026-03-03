@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/React%20Native-0.7x-blue?logo=react" />
   <img src="https://img.shields.io/badge/Node.js-Backend-green?logo=node.js" />
   <img src="https://img.shields.io/badge/Firebase-Database-orange?logo=firebase" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow" />
   <img src="https://img.shields.io/badge/Status-Active-success" />
 </p>
 

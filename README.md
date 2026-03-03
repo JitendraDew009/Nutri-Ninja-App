@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-0.7x-blue?logo=react" />
+  <img src="https://img.shields.io/badge/React%20Native-1.7x-blue?logo=react" />
   <img src="https://img.shields.io/badge/Node.js-Backend-green?logo=node.js" />
   <img src="https://img.shields.io/badge/Firebase-Database-orange?logo=firebase" />
   <img src="https://img.shields.io/badge/Status-Active-success" />
@@ -90,31 +90,30 @@ Then display them like this:
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📷 Instant Barcode Scanning  
-- 📊 Clean Nutrition Dashboard  
-- 🧠 Smart Health Indicators  
-- ⚡ Fast & Minimal UI  
-- 🥗 Simple Food Decision Support  
+-  Instant Barcode Scanning  
+-  Clean Nutrition Dashboard  
+-  Smart Health Indicators  
+-  Fast & Minimal UI  
+-  Simple Food Decision Support  
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Frontend**
 - React Native
-- Expo (if used)
+- Expo 
 
 **Backend**
-- Node.js / Express *(Update if different)*
+- Node.js / Express 
 
 **Database**
-- Firebase / MongoDB *(Update if different)*
+- Firebase / MongoDB 
 
 **APIs**
-- Nutrition API
-- Barcode API
+- Open food fact
 
 ---
 

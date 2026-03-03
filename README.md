@@ -115,7 +115,7 @@ Then display them like this:
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 

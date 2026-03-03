@@ -28,14 +28,12 @@ Just scan the barcode of any packaged food and get a clear nutrition dashboard t
 ##  Demo
 
 🔗 Live Demo: *(https://www.linkedin.com/posts/jitendradewangan_ai-healthtech-startupjourney-activity-7434648226622013440--yk8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFmaX9wBTd0yGSkiUzk_lEUlFo2dzgAFxcE)*  
-📱 APK Download: *Coming Soon*  
-🎬 App Walkthrough Video: *Coming Soon*  
+APK Download: *Coming Soon*  
+App Walkthrough Video: *Coming Soon*  
 
 ---
 
-## 📸 Screenshots
-
-> Create a folder named `screenshots` inside your repository and add your app images there.
+## Screenshots
 
 ### Home Screen
 ```
@@ -140,7 +138,7 @@ npm start
 
 ---
 
-## 🧠 Future Roadmap
+## Future Roadmap
 
 - AI-based food recommendations  
 - Personalized nutrition tracking  
@@ -150,7 +148,7 @@ npm start
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome.
 
@@ -161,13 +159,13 @@ Contributions are welcome.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Jitendra Dewangan**  
 AI Engineer in Progress  
 Building practical AI-powered products that solve real-world problems.
 
-🔗 LinkedIn: *https://www.linkedin.com/in/jitendradewangan/*  
+LinkedIn: *https://www.linkedin.com/in/jitendradewangan/*  
   
 
 ---

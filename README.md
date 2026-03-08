@@ -81,9 +81,9 @@ App Walkthrough Video: *Coming Soon*
 Then display them like this:
 
 <p align="center">
-  <img src="screenshots/home.png" width="250"/>
-  <img src="screenshots/scanner.png" width="250"/>
-  <img src="screenshots/dashboard.png" width="250"/>
+  <img src="screenshots/home.png" width="550"/>
+  <img src="screenshots/scanner.png" width="550"/>
+  <img src="screenshots/dashboard.png" width="550"/>
 </p>
 
 ---
@@ -120,7 +120,7 @@ Then display them like this:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/nutri-ninja.git
+git clone https://github.com/JitendraDew009/nutri-ninja.git
 cd nutri-ninja
 ```
 

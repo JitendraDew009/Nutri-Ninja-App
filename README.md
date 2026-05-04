@@ -4,12 +4,6 @@
   <b>Eat Smart. Scan Fast. Decide Better.</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-1.7x-blue?logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?logo=node.js" />
-  <img src="https://img.shields.io/badge/Firebase-Database-orange?logo=firebase" />
-  <img src="https://img.shields.io/badge/Status-Active-success" />
-</p>
 
 ---
 
@@ -100,16 +94,10 @@ Then display them like this:
 
 ##  Tech Stack
 
-**Frontend**
+**Frontend (current app is a complete frontend-driven intelligent system)**
 - React Native
 - Expo 
-
-**Backend**
-- Node.js / Express 
-
-**Database**
-- Firebase / MongoDB 
-
+  
 **APIs**
 - Open food fact
 
